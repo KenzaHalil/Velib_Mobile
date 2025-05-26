@@ -1,12 +1,3 @@
-# Mon App Test - Documentation API
-
-# ==================================================================================
-
-# TODO: PAS OUBLIER DE CHANGER LE LIEN DE CONNEXION MYSQL DANS LE FICHIER .env
-
-# ou dans app/config.py selon votre configuration
-
-# ==================================================================================
 
 ## Vue d'ensemble
 
